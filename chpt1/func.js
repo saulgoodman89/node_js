@@ -7,4 +7,4 @@ function checkOddOrEven(num) {
     return even;
 }
 
-MediaSourceHandle.exports = checkOddOrEven;
+module.exports = checkOddOrEven;
